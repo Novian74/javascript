@@ -16,5 +16,14 @@
         "warna" : ["merah","kuning"],
         "stok": false,
         "keterangan":null
+    },
+    {
+        "idmenu" : 3,
+        "idkategori": 1,
+        "menu": "Salak",
+        "harga": 4000,
+        "warna" : ["merah","kuning"],
+        "stok": false,
+        "keterangan":null
     }
 ]
